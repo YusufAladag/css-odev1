@@ -1,0 +1,16 @@
+body {
+    background-color: white;
+}
+h1, h2{
+    text-align: center;
+    color: rgb(15, 61, 62);
+
+}
+
+section{
+    text-align: center;
+    color:rgb(113, 26, 117);
+}
+.alticizili {
+    text-decoration: underline;
+    }
